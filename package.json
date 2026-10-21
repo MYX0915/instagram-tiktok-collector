@@ -1,0 +1,12 @@
+{
+    "name": "ins-tik-test",
+    "version": "1.0.0",
+    "private": true,
+    "scripts": {
+        "login:instagram": "node instargram.js",
+        "login:tiktok": "node tiktok.js"
+    },
+    "dependencies": {
+        "playwright": "^1.64.1"
+    }
+}

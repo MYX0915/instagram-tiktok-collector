@@ -1,0 +1,7 @@
+node_modules/
+account/
+data/
+__pycache__/
+.venv/
+outputs/
+.DS_Store
